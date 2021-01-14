@@ -1,6 +1,6 @@
 #include "mainHeader.h"
 
 int main() {
-    printf("Hello, World!\n");
+    printf("New Update\n");
     return 0;
 }
